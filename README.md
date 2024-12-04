@@ -1,0 +1,1 @@
+This repository demonstrates a common but subtle error in COBOL programming involving data type handling. The 'bug.cob' file contains code that incorrectly manipulates numeric and alphanumeric fields, leading to unexpected behavior.  The 'bugSolution.cob' file provides the corrected code with proper data type handling and error prevention.
